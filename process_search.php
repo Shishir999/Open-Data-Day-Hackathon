@@ -6,7 +6,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Blood Bank</title>
+<title>We Care</title>
 <meta name="keywords" content="graphite theme, professional, free templates, CSS, HTML" />
 <meta name="description" content="Graphite Theme, professional free CSS template from templatemo.com website" />
 <link href="css/templatemo_style.css" rel="stylesheet" type="text/css" />
@@ -168,8 +168,8 @@ echo "No Results to display";
 	
 	<div id="templatemo_footer_wrapper">
     <div id="templatemo_footer">
-        Copyright © 2015 <a href="#">BloodBank</a> | 
-        Designed and Devloped by <a href="#" rel="nofollow" target="_parent">BloodBank Team</a>
+        Copyright © 2015 <a href="#">We Care </a> | 
+        Designed and Devloped by <a href="#" rel="nofollow" target="_parent">Hold The Code Team</a>
         <div class="cleaner"></div>
     </div>
 </div> 

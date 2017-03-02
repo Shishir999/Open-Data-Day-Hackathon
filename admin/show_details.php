@@ -39,7 +39,7 @@
 					<td><?=$row['mdob']?></td>
 					<td><?=$row['address']?></td>
 					<td><?=$row['mobilenumber']."<br>".$row['email']?></td>
-					<td><?=$row['deliveryPlace']?></td>
+					<td><?=$row['deliveryDate']?></td>
 					<td><?=$row['vaccine']?></td>
 					<td><?=$row['district']?></td>
 					<td><?=$row['deliveryPlace']?></td>

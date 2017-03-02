@@ -58,7 +58,7 @@
 						</div>
 						<div class="form-group">
 							<label>Phone Number: <span style="color:red;"><sup>*</sup></span></label>
-							<input type="tel" name="mobilenumber" class="required form-control" placeholder="9849XXXXXX" required />
+							<input type="tel" name="mobilenumber" class="required form-control" placeholder="984XXXXXXX" required />
 						</div>
 						<div class="form-group">
 							<label>Email:<span style="color:red;"><sup>*</sup></span></label>
