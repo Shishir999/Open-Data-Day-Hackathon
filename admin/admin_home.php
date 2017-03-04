@@ -36,17 +36,14 @@
 	
 <div id="option" align="right">
  <ul>
- 	<li><a href="sendmail.php"><img src="images/option.png" width="30" align="left"/><span style="line-height:28px;">Send Mail</span></a></li><br>
-   
-    <li><a href="show_details.php"><img src="images/option.png" width="30" align="left"/><span style="line-height:28px;">Show Registration Details</span></a></li><br/>
-
+ 
     <li><a href="show_details.php"><img src="images/option.png" width="30" align="left"/><span style="line-height:28px;">Show Mother's Registration Details</span></a></li><br/>
 
-    <li><a href="search.php"><img src="images/option.png" width="30" align="left"/><span style="line-height:28px;">Send Alert Message</span></a></li> <br/>
+    <li><a href="sendmail.php"><img src="images/option.png" width="30" align="left"/><span style="line-height:28px;">Send Alert Message</span></a></li> <br/>
 
-	<li><a href="blood_request.php"><img src="images/option.png" width="30" align="left"/><span style="line-height:28px;">Responded Mail</span></a></li> <br/>
+	<li><a href="Confirmed.php"><img src="images/option.png" width="30" align="left"/><span style="line-height:28px;">Responded Mail</span></a></li> <br/>
 
-	<li><a href="donationcamp.php"><img src="images/option.png" width="30" align="left"/><span style="line-height:28px;">Logout | WeCare</span></a></li><br/>
+	<li><a href="logout.php"><img src="images/option.png" width="30" align="left"/><span style="line-height:28px;">Logout | WeCare</span></a></li><br/>
 
 				
 </ul>

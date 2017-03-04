@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Blood Bank Admin Panel</title>
+  <title>We Care Admin Panel</title>
   <link rel="stylesheet" href="css/style_admin.css">
 
   
@@ -18,7 +18,7 @@
 			<div id="call" >
 				
 				<span style="position: relative;color: #498ea5;font-weight: 700;font-style: normal;font-size: 48px;
-			text-shadow: 0px 1px 1px rgba(255,255,255,0.8);">Blood Bank Admin Panel</span>
+			text-shadow: 0px 1px 1px rgba(255,255,255,0.8);">We Care Admin Panel</span>
 				
 			</div><!-- end call --></h2>
 			
